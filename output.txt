@@ -1,0 +1,8 @@
+Adjacency List:
+a1 -> c3 - b3
+c3 -> d3
+b2 -> a3
+b3 -> c3 - end
+a3 -> a0 - end
+start -> a1
+d3 -> a1
